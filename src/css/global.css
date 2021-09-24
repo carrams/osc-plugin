@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+}
+svg {
+  padding-left: 5px;
+  cursor: pointer;
+}

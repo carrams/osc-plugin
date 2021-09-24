@@ -1,0 +1,9 @@
+.top-navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #F8F9FA;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
